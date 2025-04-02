@@ -2,7 +2,7 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("Olá, Boa tarde!");
         System.out.println("Aqui está o resultado da divisão de alunos por sala:");
-        int alunos = 513;
+        int alunos = 512;
         int salas;
         salas = 24;
         int divisao;
