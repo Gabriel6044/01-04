@@ -7,10 +7,8 @@ public class Main {
         System.out.println("Olá, Boa tarde!");
         System.out.println("Há " + (alunos) + " alunos e " + (salas) + " salas.");
         System.out.println("Aqui está o resultado da divisão igualitária por sala:");
-
         System.out.println("A quantidade de alunos por sala é: " + (divisao));
         System.out.println();
-
         switch (resto) {
             case 0:
                 System.out.println("Não há alunos sobrando.");
